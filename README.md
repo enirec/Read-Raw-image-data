@@ -7,14 +7,14 @@ There is also bit shift slider enabled that is useful to bring out signals in da
 
 **How to use the tool:**  
 
-Load main_ReadRaw.py and click run.
-Load the json file from the config_files folder.
-Once opened, the parameters of the .raw image will be displayed on the tkinter app window.
-Click 'Add image' button to load the .raw file.
-RGB image is dsipalyed on the right side of the window.
-To use the 'RGB histogram', drag the cursor on any desired region of interest and then click 'Select ROI' button. 
-Now press 'RGB histogram' button, and the 8 bit RGB histogram of the seleted ROI will be displayed.
-To select 'bit_shift' operation, slide the 'bit_shift' slider and you can see how the intensity of the displayed RGB image varies.
+1. **Load main_ReadRaw.py** and click run.
+2. Load the json file from the *config_files* folder.
+3. Once opened, the parameters of the .raw image will be displayed on the tkinter app window.
+4. Click *Add image* button to load the .raw file.
+5. RGB image is dsipalyed on the right side of the window.
+6. To use the *RGB histogram*, drag the cursor on any desired region of interest and then click *Select ROI* button. 
+7. Now press 'RGB histogram' button, and the 8 bit RGB histogram of the seleted ROI will be displayed.
+8. To select *bit_shift* operation, slide the *bit_shift* slider and you can see how the intensity of the displayed RGB image varies.
 
 **.....................................................................
 Example use cases: ..................................................................................................................**
