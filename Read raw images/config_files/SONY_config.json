@@ -1,0 +1,15 @@
+{"sensor":"IMX623",
+	"bayer_order":"gbrg",
+	"unmirror": false,
+	"header": false,
+	"header_length": 0,
+	"cols": 1940,
+	"rows": 1579,
+	"meta_top": 0,
+	"meta_bottom": 0,
+	"endian_type": "ieee-le",
+	"data_format": "uint32",
+	"bit_depth": 16,
+	"pedestal": 0
+
+}
