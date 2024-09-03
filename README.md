@@ -1,6 +1,6 @@
 # Read-Raw-image-data
-This  project contains codes to process a raw image file and do basic image processing steps.
-Read - Raw - image - data tool is a tkinter App to read a  16 bit or 32 bit .raw image and convert it to a RGB image.
+**This  project contains codes to process a raw image file and do basic image processing steps**
+Read - Raw - image - data tool is a **tkinter App** to read a  16 bit or 32 bit .raw image and convert it to a RGB image.
 Displays histogram of the raw data.
 Also can be used to select any given ROI and display RGB histogram of the selected region.
 There is also bit shift slider enabled that is useful to bring out signals in darker regions of the image.
@@ -15,8 +15,8 @@ To use the 'RGB histogram', drag the cursor on any desired region of interest an
 Now press 'RGB histogram' button, and the 8 bit RGB histogram of the seleted ROI will be displayed.
 To select 'bit_shift' operation, slide the 'bit_shift' slider and you can see how the intensity of the displayed RGB image varies.
 
-.....................................................................................................................................
-Example use cases: ..................................................................................................................
+**.....................................................................................................................................
+Example use cases: ..................................................................................................................**
 
 Use X3F_ovt.json file to open sun_1536x1824.raw file.
 Use SONY_config.json file to open sony_16bit.raw file.
