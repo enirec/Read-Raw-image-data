@@ -5,7 +5,7 @@ Displays histogram of the raw data.
 Also can be used to select any given ROI and display RGB histogram of the selected region.
 There is also bit shift slider enabled that is useful to bring out signals in darker regions of the image.
 
-How to use the tool:
+**How to use the tool: **
 Load main_ReadRaw.py and click run.
 Load the json file from the config_files folder.
 Once opened, the parameters of the .raw image will be displayed on the tkinter app window.
