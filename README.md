@@ -6,7 +6,6 @@ Also can be used to select any given ROI and display RGB histogram of the select
 There is also bit shift slider enabled that is useful to bring out signals in darker regions of the image.
 
 **How to use the tool:**  
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 Load main_ReadRaw.py and click run.
 Load the json file from the config_files folder.
