@@ -16,7 +16,7 @@ Now press 'RGB histogram' button, and the 8 bit RGB histogram of the seleted ROI
 To select 'bit_shift' operation, slide the 'bit_shift' slider and you can see how the intensity of the displayed RGB image varies.
 
 .....................................................................................................................................
-Example use cases:
+Example use cases: ..................................................................................................................
 
 Use X3F_ovt.json file to open sun_1536x1824.raw file.
 Use SONY_config.json file to open sony_16bit.raw file.
