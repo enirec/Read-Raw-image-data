@@ -1,18 +1,18 @@
 # Read-Raw-image-data
 This  project contains codes to process a raw image file and do basic image processing steps.
-Read - Raw - image - data tool is a tkinter App to read a  16 bit or 32 bit.raw image and convert it to RGB image.
-Displays raw histogram of the entire image.
+Read - Raw - image - data tool is a tkinter App to read a  16 bit or 32 bit .raw image and convert it to a RGB image.
+Displays histogram of the raw data.
 Also can be used to select any given ROI and display RGB histogram of the selected region.
-There is a bit shift slider enabled that is useful to bring out signals in darker regions of the image.
+There is also bit shift slider enabled that is useful to bring out signals in darker regions of the image.
 
 How to use the tool:
-Load main_ReadRaw.py and run.
+Load main_ReadRaw.py and click run.
 Load the json file from the config_files folder.
-Once opened, the parameters of the .raw image will be displayed on the window.
+Once opened, the parameters of the .raw image will be displayed on the tkinter app window.
 Click 'Add image' button to load the .raw file.
-RGB image is dsipalyed on the right of the window.
+RGB image is dsipalyed on the right side of the window.
 To use the 'RGB histogram', drag the cursor on any desired region of interest and then click 'Select ROI' button. 
-Now press 'RGB histogram' button, and the 8 bit RGB histogram of the seceted ROI will be displayed.
+Now press 'RGB histogram' button, and the 8 bit RGB histogram of the seleted ROI will be displayed.
 To select 'bit_shift' operation, slide the 'bit_shift' slider and you can see how the intensity of the displayed RGB image varies.
 
 ........................................................
