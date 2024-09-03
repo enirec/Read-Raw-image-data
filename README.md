@@ -1,6 +1,6 @@
 # Read-Raw-image-data
 **This  project contains codes to process a raw image file and do basic image processing steps.**
-Read - Raw - image - data tool is a **tkinter App** to read a  16 bit or 32 bit .raw image and convert it to a RGB image.
+*Read - Raw - image - data* tool is a **tkinter App** to read a  16 bit or 32 bit .raw image and convert it to a RGB image.
 Displays histogram of the raw data.
 Also can be used to select any given ROI and display RGB histogram of the selected region.
 There is also bit shift slider enabled that is useful to bring out signals in darker regions of the image.
