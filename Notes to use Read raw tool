@@ -5,8 +5,8 @@ There is a bit shift slider enabled that is useful to bring out signals in darke
 
 How to use the tool:
 Load main_ReadRaw.py and run.
-Load the json file with the attributes of the .raw image.
-Once opened, the paameters of the .raw image will be displayed on the window.
+Load the json file from the config_files folder.
+Once opened, the parameters of the .raw image will be displayed on the window.
 Click 'Add image' button to load the .raw file.
 RGB image is dsipalyed on the right of the window.
 To use the 'RGB histogram', drag the cursor on any desired region of interest and then click 'Select ROI' button. 
@@ -16,3 +16,4 @@ To select 'bit_shift' operation, slide the 'bit_shift' slider and you can see ho
 ........................................................
 Use X3F_ovt.json file to open sun_1536x1824.raw file
 Use SONY_config.json file to open sony_16bit.raw file.
+You can edit/modify the json file and set your own attributes for opening .raw images.
